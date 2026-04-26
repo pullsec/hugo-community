@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-%20development-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/type-discussions-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Giscus-enabled-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge" />
+<!--  <img src="https://img.shields.io/badge/Giscus-enabled-blue?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/backend-GitHub%20Discussions-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/license/pullsec/hugo-community?style=for-the-badge" />
 </p>
